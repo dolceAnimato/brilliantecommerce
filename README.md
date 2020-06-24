@@ -1,1 +1,1 @@
-# brilliantecommerce
+# thebrillante
